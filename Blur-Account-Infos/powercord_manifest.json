@@ -1,0 +1,8 @@
+{
+    "name": "Blur Account Infos",
+    "description": "This mini-theme allows you to hide your email adress and other things in your Account Card when you enter in Discord's User Settings without enabling Streamer Mode.",
+    "version": "1.1.0",
+    "author": "GX Hacker",
+    "theme": "Blur-Account-Infos.theme.css",
+    "license": "unknown"
+}
