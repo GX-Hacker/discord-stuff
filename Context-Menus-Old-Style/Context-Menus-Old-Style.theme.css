@@ -1,0 +1,14 @@
+/**
+ * @name Context Menus Old Style
+ * @author GX Hacker
+ * @version 1.1.0
+ * @description Made for people who don't like the new colors for context menus. Use it for default themes only.
+ * @source https://github.com/gx-hacker/discord-themes
+ * @website https://dsc.gg/code-and-stuff
+*/
+
+@import url(https://gx-hacker.github.io/source/themes/Context-Menus-Old-Style_Core.css);
+
+:root {
+    --version110_cmos: none;
+}
