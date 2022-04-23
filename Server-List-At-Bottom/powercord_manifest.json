@@ -1,0 +1,8 @@
+{
+    "name": "Server List At Bottom",
+    "description": "Moves the server list at the bottom, like Guilded (if you know).",
+    "version": "1.1.0",
+    "author": "GX Hacker",
+    "theme": "Server-List-At-Bottom.theme.css",
+    "license": "unknown"
+}
