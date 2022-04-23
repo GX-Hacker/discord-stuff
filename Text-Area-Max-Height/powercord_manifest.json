@@ -1,0 +1,8 @@
+{
+    "name": "Text Area Max Height",
+    "description": "Allows you to change the max height for the text area by editing the theme file.",
+    "version": "1.1.0",
+    "author": "GX Hacker",
+    "theme": "Text-Area-Max-Height.theme.css",
+    "license": "unknown"
+}
