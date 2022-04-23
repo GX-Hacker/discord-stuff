@@ -1,0 +1,19 @@
+/**
+ * @name AMOLED Dark Theme Optimized
+ * @author GX Hacker
+ * @version 1.1.0
+ * @description This version of AMOLED Dark Theme changes all backgrounds to full black instead of matching Android colors!
+ * @source https://github.com/gx-hacker/discord-themes
+ * @website https://dsc.gg/code-and-stuff
+*/
+
+@import url(https://gx-hacker.github.io/source/themes/AMOLED-Dark-Theme_Core.css);
+@import url(https://gx-hacker.github.io/source/themes/AMOLED-Dark-Theme-Optimized_Version.css);
+
+:root { /* Settings */
+    /* Compatibility Settings */
+    --xenolib-background-color: #000000 ;/* Default: #000000 - Background color for the XenoLib notifications if you have the plugin. You can use HEX, RGB or anything you want as long as it's a color (no image or filter). */
+
+    /* Update Settings */
+    --version110_adto: none; /* Do not touch to this, or you'll see a notice that says your theme is broken. */
+}
