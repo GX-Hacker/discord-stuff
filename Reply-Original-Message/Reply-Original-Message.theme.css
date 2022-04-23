@@ -1,0 +1,14 @@
+/**
+ * @name Reply Original Message
+ * @author GX Hacker
+ * @version 1.1.0
+ * @description Displays the entire replied message so you don't need to click on it.
+ * @source https://github.com/gx-hacker/discord-themes
+ * @website https://dsc.gg/code-and-stuff
+*/
+
+@import url(https://gx-hacker.github.io/source/themes/Reply-Original-Message_Core.css);
+
+:root {
+    --version110_rom: none; /* This is not a variable to change. */
+}
