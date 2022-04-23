@@ -1,0 +1,18 @@
+/**
+ * @name Text Area Max Height
+ * @author GX Hacker
+ * @version 1.1.0
+ * @description Allows you to change the max height for the text area by editing the theme file.
+ * @source https://github.com/gx-hacker/discord-themes
+ * @website https://dsc.gg/code-and-stuff
+*/
+
+@import url(https://gx-hacker.github.io/source/themes/Text-Area-Max-Height_Core.css);
+
+:root {
+    /* Settings */
+    --maxHeight: 500px; /* Max height of the text area here - Default: 500px */
+
+    /* Version */
+    --version110_tamh: none; /* Please do not modifiy this */
+}
