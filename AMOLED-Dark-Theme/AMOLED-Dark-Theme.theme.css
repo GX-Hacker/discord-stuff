@@ -1,0 +1,19 @@
+/**
+ * @name AMOLED Dark Theme
+ * @author GX Hacker
+ * @version 1.1.0
+ * @description A black theme for desktop inspired by the Android *hidden* AMOLED theme!
+ * @source https://github.com/gx-hacker/discord-themes
+ * @website https://dsc.gg/code-and-stuff
+*/
+
+@import url(https://gx-hacker.github.io/source/themes/AMOLED-Dark-Theme_Core.css);
+@import url(https://gx-hacker.github.io/source/themes/AMOLED-Dark-Theme_Version.css);
+
+:root { /* Settings */
+    /* Compatibility Settings */
+    --xenolib-background-color: #202225 ;/* Default: #202225 - Background color for the XenoLib notifications if you have the plugin. You can use HEX, RGB or anything you want as long as it's a color (no image or filter). */
+
+    /* Update Settings */
+    --version110_adt: none; /* Do not edit this, or you'll see an annoying notice telling you to update the theme. */
+}
