@@ -1,0 +1,30 @@
+/**
+ * @name Blur Account Infos
+ * @author GX Hacker
+ * @version 1.1.0
+ * @description This mini-theme allows you to hide your email adress and other things in your Account Card when you enter in Discord's User Settings without enabling Streamer Mode.
+ * @source https://github.com/gx-hacker/discord-themes
+ * @website https://dsc.gg/code-and-stuff
+*/
+
+@import url(https://gx-hacker.github.io/source/themes/Blur-Account-Infos_Core.css);
+
+/* Pro tip: Do not let your cursor on the Account Info card. */
+
+:root { /* Theme Settings */
+
+/*  Blur Amount Settigs                                                                                                                                                             */
+    --blur-amount           :   5px     ;/*  Default: 5px    - Default blur amout. Use length units like px. If you are not sure what you are doing, leave it as default.           */
+    --blur-amount-on-hover  :   0px     ;/*  Default: 0px    - Blur amount when you hover on a sensitive information. If you're not sure what you're doing, leave it as default.    */
+    
+/*  Transition Settings                                                                                                                                                             */
+    --fade-in               :   700ms   ;/*  Default: 700ms  - Fade transition time when the cursor starts hovering on the blurred text.                                            */
+    --fade-out              :   150ms   ;/*  Default: 150ms  - Fade transition time when the cursor stops hovering on the blurred text. Should be shorter than fade-in.             */
+    
+/*  Delay Settings                                                                                                                                                                  */
+    --fade-in-delay         :   300ms   ;/*  Default: 300ms  - Delay before starting fade-in.                                                                                       */
+    --fade-out-delay        :   150ms   ;/*  Default: 150ms  - Delay before starting fade-out.                                                                                      */
+    
+/*  Update Settings                                                                                                                                                                 */
+    --version110_bai: none; /* Do not edit this, or you'll see a notice that tells you to update the theme.                                                                        */
+}
