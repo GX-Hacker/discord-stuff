@@ -1,0 +1,14 @@
+/**
+ * @name Always Display Channel Buttons
+ * @author GX Hacker
+ * @version 1.1.0
+ * @description Allows you to view which buttons you have without hovering on channels.
+ * @source https://github.com/gx-hacker/discord-themes
+ * @website https://dsc.gg/code-and-stuff
+*/
+
+@import url(https://gx-hacker.github.io/source/themes/Always-Display-Channels-Buttons_Core.css);
+
+:root {
+    --versio110_adcb: none; /* Do not change it, or you'll see an annoying notice telling you to redoanload your theme. */
+}
