@@ -1,0 +1,8 @@
+{
+    "name": "AMOLED Dark Theme",
+    "description": "A black theme for desktop inspired by the Android *hidden* AMOLED theme!",
+    "version": "1.1.0",
+    "author": "GX Hacker",
+    "theme": "AMOLED-Dark-Theme.theme.css",
+    "license": "unknown"
+}
