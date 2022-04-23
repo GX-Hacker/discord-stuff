@@ -1,0 +1,8 @@
+{
+    "name": "Compact Channel Member Lists",
+    "description": "Allows you to change the channels and members listing horizontal size from constant to variable. Fully customizable in the theme file.",
+    "version": "1.1.0",
+    "author": "GX Hacker",
+    "theme": "Compact-Channel-Member-Lists.theme.css",
+    "license": "unknown"
+}
