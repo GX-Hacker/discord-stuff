@@ -1,0 +1,23 @@
+/**
+ * @name Custom Font
+ * @author GX Hacker
+ * @version 1.1.0
+ * @description Edit the theme variables to set your own fonts! To change fonts, change the --customFont (and --codeBlocksCustomFont for code blocks). You can also use the given listing and edit it to remember the fonts you'd like to use later.
+ * @source https://github.com/gx-hacker/discord-themes
+ * @website https://dsc.gg/code-and-stuff
+*/
+
+@import url(https://gx-hacker.github.io/source/themes/Custom-Font_Core.css);
+
+:root { /* Choose your fonts that will be used for Discord just here. Separate each font with a comma. The first one will be used first. */
+    --customFont: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
+    --codeBlocksCustomFont: Consolas, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Monaco, Courier New, Courier, monospace;
+
+    --version110_cf: none; /* Do not edit this, or you'll see an annoying update notice. */
+}
+/* Remember your fonts
+This space allows you to directly remind your fonts for later, or in case you forget any font name.
+
+Normal Fonts: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
+CodeBlock Fonts: Consolas, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Monaco, Courier New, Courier, monospace;
+*/
