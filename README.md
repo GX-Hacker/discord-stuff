@@ -12,11 +12,11 @@ To download a file on GitHub, you have to click on the file name, then "Raw", th
 
 ### BetterDiscord
 
-Simply go to the theme folder (e.g. AMOLED Dark Theme) and just download the `.theme.css` file. Then place it in your theme folder.
+Simply go to any theme directory (e.g. AMOLED Dark Theme) and just download the `.theme.css` file. Then place it in your theme folder.
 
 ### Stylus
 
-Go to the theme folder, click on the `.theme.css` file, click "Raw", copy everything (Ctrl + A and Ctrl + C), and paste in a new style. Name it, and **make sure to ONLY apply it for `discord.com`.**
+Go to any theme directory, click on the `.theme.css` file, click "Raw", copy everything (Ctrl + A and Ctrl + C), and paste in a new style. Name it, and **make sure to ONLY apply it for `discord.com`.**
 
 WARNING: Discord themes on Firefox **may not work** because of priority levels.
 
