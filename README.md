@@ -18,7 +18,7 @@ Simply go to any theme directory (e.g. AMOLED Dark Theme) and just download the 
 
 Go to any theme directory, click on the `.theme.css` file, click "Raw", copy everything (Ctrl + A and Ctrl + C), and paste in a new style. Name it, and **make sure to ONLY apply it for `discord.com`.**
 
-WARNING: Discord themes on Firefox **may not work** because of priority levels.
+WARNING: Discord themes on Firefox **may not work** because of priority levels. There aren't any fix for that, consider using another browser or the desktop app alternatively.
 
 ### Powercord
 
