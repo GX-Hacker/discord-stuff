@@ -1,0 +1,33 @@
+/**
+ * @name Compact Channel Member Lists
+ * @author GX Hacker
+ * @version 1.1.0
+ * @description Allows you to change the channels and members listing horizontal size from constant to variable. Fully customizable in the theme file.
+ * @source https://github.com/gx-hacker/discord-themes
+ * @website https://dsc.gg/code-and-stuff
+*/
+
+@import url(https://gx-hacker.github.io/source/themes/Compact-Channel-Member-Lists_Core.css);
+
+/* ⬇⬇⬇⬇⬇⬇⬇⬇ REMOVE OR DISABLE THIS IMPORT LINK IF YOU DON'T WANT FIXED BUTTON POSITIONS  ⬇⬇⬇⬇⬇⬇⬇⬇ */
+@import url(https://gx-hacker.github.io/source/css/Compact-Channels-And-Members_BtnPositionFix.css);
+/* ⬆⬆⬆⬆⬆⬆⬆⬆  ⬆ ⬆ ⬆ ⬆ ⬆ ⬆ ⬆ ⬆ ⬆ ⬆ ⬆ ⬆ ⬆ ⬆ ⬆ ⬆ ⬆ ⬆ ⬆ ⬆ ⬆ ⬆ ⬆ ⬆ ⬆ ⬆ ⬆ ⬆  ⬆⬆⬆⬆⬆⬆⬆⬆ */
+
+:root {
+/*  Channels                                                                                                                            */
+    --cSize           :   190px   ;   /* Channels list size (in px, em, etc…)                            Default: 190px                 */
+    --cSizeOnHover    :   240px   ;   /* Channels list size on hover (in px, em, etc…)                   Default: 240px                 */
+
+/*  Memberlist                                                                                                                          */
+    --mSize           :   240px   ;   /* Memberlist size (in px, em, etc…)                               Default: 60px  Disable: 240px  */
+    --mSizeOnHover    :   240px   ;   /* Memberlist size on hover (in px, em, etc…)                      Default: 240px Disable: 240px  */
+
+/*  Transitions                                                                                                                         */
+    --time            :   200ms   ;   /* Transition time (in s or ms)                                    Default: 200ms                 */
+    --delayIn         :   100ms   ;   /* Transition delay before resizing by --xSizeOnHover (in s or ms) Default: 100ms                 */
+    --delayOut        :   300ms   ;   /* Transition delay before resizing by --xSize (in s or ms)        Default: 300ms                 */
+
+    
+/*  Update                                                                                                                              */
+    --version110_ccml :   none    ;   /* Do not change or you'll see an annoying notice.                 Default: none                  */
+}
