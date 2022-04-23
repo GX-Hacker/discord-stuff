@@ -1,0 +1,14 @@
+/**
+ * @name Remove Nitro Tab
+ * @author GX Hacker
+ * @version 1.1.0
+ * @description Hides the Nitro tab in Discord's home page.
+ * @source https://github.com/gx-hacker/discord-themes
+ * @website https://dsc.gg/code-and-stuff
+*/
+
+@import url(https://gx-hacker.github.io/source/themes/Remove-Nitro-Tab_Core.css);
+
+:root {
+    --version110_rnt: none; /* This is not a variable to change. */
+}
