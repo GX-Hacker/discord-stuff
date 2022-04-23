@@ -1,0 +1,14 @@
+/**
+ * @name Typing At Top Of Chat Box
+ * @author GX Hacker
+ * @version 1.1.0
+ * @description Exchanges the position of the text area with people typing (and other tools).
+ * @source https://github.com/gx-hacker/discord-themes
+ * @website https://dsc.gg/code-and-stuff
+*/
+
+@import url(https://gx-hacker.github.io/source/themes/Typing-At-Top-Of-Chat-Box_Core.css);
+
+:root {
+    --version110_tatocb: none;
+}
