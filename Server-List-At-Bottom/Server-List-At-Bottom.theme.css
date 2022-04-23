@@ -1,0 +1,19 @@
+/**
+ * @name Server List At Bottom
+ * @author GX Hacker
+ * @version 1.1.0
+ * @description Moves the server list at the bottom, like Guilded (if you know).
+ * @source https://github.com/gx-hacker/discord-themes
+ * @website https://dsc.gg/code-and-stuff
+*/
+
+@import url(https://gx-hacker.github.io/source/themes/Server-List-At-Bottom_Core.css);
+
+:root {
+    /* Custom Settings */
+    --serverSize: 40px; /* Size of the ServerIcons and ServerFolders - Theme default: 40px - Discord default: 48px */
+    --serverSpacing: 10px; /* Spacing between servers and folders - Default: 10px */
+
+    /* Version */
+    --version110_slab: none; /* Do not edit this variable, or you'll see an annoying notice telling you to update the theme. */
+}
