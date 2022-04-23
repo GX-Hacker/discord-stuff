@@ -1,0 +1,8 @@
+{
+    "name": "Typing At Top Of Chat Box",
+    "description": "Exchanges the position of the text area with people typing and other tools.",
+    "version": "1.1.0",
+    "author": "GX Hacker",
+    "theme": "TypingAtTopOfChatBox.theme.css",
+    "license": "unknown"
+}
