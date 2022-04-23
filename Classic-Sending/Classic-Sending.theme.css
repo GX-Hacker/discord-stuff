@@ -1,0 +1,19 @@
+/**
+ * @name Classic Sending
+ * @author GX Hacker
+ * @version 1.1.0
+ * @description Simple minitheme to show a small text next to the message instead of graying when it's sending, just like classic messaging. Text is customizable in the theme file.
+ * @source https://github.com/gx-hacker/discord-themes
+ * @website https://dsc.gg/code-and-stuff
+*/
+
+@import url(https://gx-hacker.github.io/source/themes/Classic-Sending_Core.css);
+
+:root {
+    /* Custom Additional Text */
+    --sending-text: ""; /* (sending...) */
+    --failed-text: ""; /* (FAILED) */
+
+    /* Update */
+    --version110_cs: none; /* Do not edit this, or you'll see an annoying notice that tells you to update the theme. */
+}
