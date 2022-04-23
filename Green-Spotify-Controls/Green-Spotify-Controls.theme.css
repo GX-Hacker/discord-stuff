@@ -1,0 +1,33 @@
+/**
+ * @name Green Spotify Controls
+ * @author GX Hacker
+ * @version 1.1.0
+ * @description Allows you to change the colors for the Spotify Controls plugin. Not only green, can be colorful! You can change the colors to whatever you want by editing the file.
+ * @source https://github.com/gx-hacker/discord-themes
+ * @website https://dsc.gg/code-and-stuff
+*/
+
+@import url(https://gx-hacker.github.io/source/themes/Green-Spotify-Controls_Core.css);
+
+:root { /* DARK AND LIGHT THEMES HAVE DIFFERENT VALUES - You can use hex, rgb, vars, or what you want supported by CSS. */
+    /* Dark theme */
+    --dark-controls-background-color:  #1c9a48   ; /* General background using Dark Theme.                                              Default: #1c9a48   */
+    --dark-active-buttons:             #35ed86   ; /* Accent color for active buttons.                                                  Default: #35ed86   */
+    --dark-white-color-1:              #ffffff   ; /* White color, used for default buttons and title.                                  Default: #ffffff   */
+    --dark-white-color-2:              #ffffffa2 ; /* Second white color, used for subtitle. The last two digits indicates the opacity. Default: #ffffffa2 */
+    --dark-timeline-hover:             #35ed86   ; /* Hover the timeline to see this color, if enabled.                                 Default: #35ed86   */
+    --dark-timeline-empty-zone:        #0000003d ; /* Timeline empty zone color.                                                        Default: #0000003d */
+    --dark-button-hover-background:    #00000050 ; /* Button background when you hover on it.                                           Default: #00000050 */
+
+    /* Light theme */
+    --light-controls-background-color: #35ed86   ; /* General background using Light Theme.                                             Default: #35ed86   */
+    --light-active-buttons:            #ffffff   ; /* Accent color for active buttons.                                                  Default: #ffffff   */
+    --light-black-color-1:             #000000   ; /* Black color, used for default buttons and title.                                  Default: #000000   */
+    --light-black-color-2:             #000000a2 ; /* Second black color, used for subtitle. The last two digits indicates the opacity. Default: #000000a2 */
+    --light-timeline-hover:            #ffffff   ; /* Hover the timeline to see this color, if enabled.                                 Default: #ffffff   */
+    --light-timeline-empty-zone:       #0000003d ; /* Timeline empty zone color.                                                        Default: #0000003d */
+    --light-button-hover-background:   #0000003d ; /* Button background when you hover on it.                                           Default: #0000003d */
+
+    /* Update */
+    --version110_gsc:                  none      ; /* Do not change this please.                                                        Default: none      */
+}
