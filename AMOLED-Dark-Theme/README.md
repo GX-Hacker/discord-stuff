@@ -2,7 +2,7 @@
 
 A black theme for desktop inspired by the Android AMOLED dark theme! Backgrounds are not fully black in this version, but it's here if you like the colors!
 
-### Do you want full black background? [Try the "Optimized" version!](https://github.com/gx-hacker/themes/AMOLED-Dark-Theme-Optimized)
+### Do you want full black background? [Try the "Optimized" version!](https://github.com/gx-hacker/discord-themes/AMOLED-Dark-Theme-Optimized)
 
 ## Compatible with:
 
