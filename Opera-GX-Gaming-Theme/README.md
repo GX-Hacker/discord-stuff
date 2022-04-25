@@ -12,7 +12,7 @@ A Discord theme inspired by the Opera GX gaming browser!
 
 There are a lot of presets you can use, inspired by the default presets of the browser! Also support light versions when light theme is enabled.
 
-### [See all presets here.](https://github.com/gx-hacker/themes/tree/main/Opera-GX-Gaming-Theme)
+### [See all presets here.](https://github.com/gx-hacker/discord-themes/tree/main/Opera-GX-Gaming-Theme)
 
 *Note: New Classic is not exactly the same as the default one. It has a newer background and colors are a bit modified.*
 
